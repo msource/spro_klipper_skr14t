@@ -10,7 +10,7 @@ KLIPPER > SKR 1.4 Turbo > TT Sapphire Pro
 - TriangleLab V6 Clone: titanium heatbreak + cooper plated nozzle + 50W
 - TriangleLab v1 BMG Clone: 600mm PTFE tube (bowden)
 - Bed Suporte Kit + Aluminium 5mm + Silicone heated bed [all KIS3D]
-  Linear Rails: Hiwin
-  Bearings: Misumi
+- Linear Rails: Hiwin
+- Bearings: Misumi
 
 
