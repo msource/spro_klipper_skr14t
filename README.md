@@ -16,8 +16,9 @@ KLIPPER > SKR 1.4 Turbo > TT Sapphire Pro
   - Used as Z endstop and autoleveling bed
 - Bed Suporte Kit + Aluminium 5mm + Silicone heated bed [all KIS3D]
   - Nylon trapezoidal thread nut TR8x2 (on Z)
-  - Bearings: Misumi
-- Linear Rails: Hiwin
+  - MISUMI precision shaft in H5 quality
+  - MISUMI Precision Linear Bearing SlRW12
+- Linear Rails: Hiwin (3)
 - GATES PowerGrip® 6mm
 
 
